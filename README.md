@@ -17,8 +17,4 @@ Traditional systems only flag students once they fail. **Edufuzzy** changes the 
 * **Core:** Python
 * **Logic:** Scikit-Fuzzy, NumPy
 * **Data:** Pandas
-* **Interface:** [Add your UI, e.g., Streamlit / Flask]
-
----
-
-**Would you like me to add a "Project Screenshots" or "Future Roadmap" section to make it look even more complete?**
+  
